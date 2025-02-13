@@ -9,7 +9,7 @@ int main() {
 
     sum = a + b;
 
-    printf("Sum: %d", sum);
+    printf(" The Sum is as given: %d", sum);
 
     return 0;
 }
